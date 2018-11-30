@@ -20,7 +20,7 @@ require 'about_control_statements' # DONE
 require 'about_true_and_false' # DONE
 require 'about_triangle_project' # DONE
 require 'about_exceptions' # DONE
-require 'about_triangle_project_2'
+require 'about_triangle_project_2' # DONE
 require 'about_iteration'
 require 'about_blocks'
 require 'about_sandwich_code'
