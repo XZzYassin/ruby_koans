@@ -10,7 +10,7 @@ require 'about_array_assignment' # DONE
 require 'about_hashes' # DONE
 require 'about_strings' # DONE
 require 'about_symbols' # DONE
-require 'about_regular_expressions'
+require 'about_regular_expressions' # DONE
 require 'about_methods'
 in_ruby_version("2") do
   require 'about_keyword_arguments'
