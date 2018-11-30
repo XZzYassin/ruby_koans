@@ -8,8 +8,8 @@ require 'about_objects' # DONE
 require 'about_arrays' # DONE
 require 'about_array_assignment' # DONE
 require 'about_hashes' # DONE
-require 'about_strings' 
-require 'about_symbols'
+require 'about_strings' # DONE
+require 'about_symbols' # DONE
 require 'about_regular_expressions'
 require 'about_methods'
 in_ruby_version("2") do
