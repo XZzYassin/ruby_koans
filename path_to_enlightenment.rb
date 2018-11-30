@@ -13,7 +13,7 @@ require 'about_symbols' # DONE
 require 'about_regular_expressions' # DONE
 require 'about_methods' # DONE
 in_ruby_version("2") do
-  require 'about_keyword_arguments'
+  require 'about_keyword_arguments' # DONE
 end
 require 'about_constants'
 require 'about_control_statements'
