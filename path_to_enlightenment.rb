@@ -25,7 +25,7 @@ require 'about_iteration' # DONE
 require 'about_blocks' # DONE
 require 'about_sandwich_code' # DONE
 require 'about_scoring_project' # DONE
-require 'about_classes'
+require 'about_classes' # DONE
 require 'about_open_classes'
 require 'about_dice_project'
 require 'about_inheritance'
