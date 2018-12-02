@@ -27,7 +27,7 @@ require 'about_sandwich_code' # DONE
 require 'about_scoring_project' # DONE
 require 'about_classes' # DONE
 require 'about_open_classes' # DONE
-require 'about_dice_project'
+require 'about_dice_project' # DONE
 require 'about_inheritance'
 require 'about_modules'
 require 'about_scope'
