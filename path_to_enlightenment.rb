@@ -28,7 +28,7 @@ require 'about_scoring_project' # DONE
 require 'about_classes' # DONE
 require 'about_open_classes' # DONE
 require 'about_dice_project' # DONE
-require 'about_inheritance'
+require 'about_inheritance' # DONE
 require 'about_modules'
 require 'about_scope'
 require 'about_class_methods'
